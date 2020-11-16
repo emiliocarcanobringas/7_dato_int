@@ -1,1 +1,1 @@
-# 7_dato_int
+Tipos de datos básicos de c++. Este programa muestra en la salida estándar el valor de una variable de tipo entero, cuyo valor máximo es: 32767	y el mínimo: -32768, utiliza 2 bytes en memoria para almacenar los datos.
